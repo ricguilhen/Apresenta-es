@@ -1,2 +1,2 @@
-# Apresenta-es
+# Apresentacoes
 Pastas contendo conteúdo de apresentações feitas
